@@ -1,0 +1,25 @@
+{
+  "name": "lucasslv",
+  "version": "1.0.0",
+  "description": "cartão de visitas DEV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasSlv/npx-card.git"
+  },
+  "author": "Lucas Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasSlv/npx-card/issues"
+  },
+  "homepage": "https://github.com/lucasSlv/npx-card#readme",
+  "bin": {
+    "lucasslv": "bin/card.js"
+  },
+  "dependencies": {
+    "lucasslv": "^1.0.0"
+  }
+}
